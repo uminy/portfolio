@@ -49,7 +49,7 @@
   body {
 	font-size: 1rem;
 	background: var(--preview-bg);
-	font-family: var(--font);
+	font: 15px/1.5 "Noto+Sans+KR";
 	color: var(--black);
 	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/paper_fibers.png) repeat;
 	padding: 4rem 2rem;
@@ -112,7 +112,6 @@
   .title--large {
 	font-family: var(--font-title);
 	font-size: 32px;
-	font-style: italic;
 	text-align: left;
 	margin-bottom: 0.8rem;
   }
