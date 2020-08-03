@@ -632,6 +632,9 @@
   }
 
 .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .typing-demo {
