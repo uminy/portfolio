@@ -64,11 +64,13 @@
   * {
 	padding: 0;
 	box-sizing: border-box;
-	cursor: url(../portfolio/img/mouse.cur), url(../portfolio/img/mouse.png), pointer;
   }
   body {
 	color: #262626;
   }
+
+.main__wrapper{cursor: url(../img/mouse.cur), url(../img/mouse.png), pointer;}
+	
   .container {
 	font: 70px/1 "Playfair Display SC";
 	display: flex;
