@@ -339,7 +339,7 @@
 	  margin-top: 0.75rem;
 	}
 	.multi-column-3 {
-	  column-count: 3;
+		font-size: 17px;
 	}
   }
   .sidebar {
