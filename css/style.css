@@ -69,7 +69,7 @@
 	color: #262626;
   }
 
-.main__wrapper{cursor: url(img/mouse.cur), url(img/mouse.png), pointer;}
+  .main__wrapper{cursor: url(mouse.cur), url(mouse.png), pointer;}
 	
   .container {
 	font: 70px/1 "Playfair Display SC";
